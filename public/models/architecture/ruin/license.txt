@@ -1,0 +1,11 @@
+Model Information:
+* title:	Zakopane, Corner of ruin building.
+* source:	https://sketchfab.com/3d-models/zakopane-corner-of-ruin-building-6a2b4f6c064942f28eb8e82f73588a1c
+* author:	zhenkoest (https://sketchfab.com/zhenko)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Zakopane, Corner of ruin building." (https://sketchfab.com/3d-models/zakopane-corner-of-ruin-building-6a2b4f6c064942f28eb8e82f73588a1c) by zhenkoest (https://sketchfab.com/zhenko) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

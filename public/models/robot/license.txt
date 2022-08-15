@@ -1,0 +1,11 @@
+Model Information:
+* title:	Robot Explorer
+* source:	https://sketchfab.com/3d-models/robot-explorer-7dd41219050c437eadfd5d9caad9031b
+* author:	Benjamin Gallegos (https://sketchfab.com/artygalop)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Robot Explorer" (https://sketchfab.com/3d-models/robot-explorer-7dd41219050c437eadfd5d9caad9031b) by Benjamin Gallegos (https://sketchfab.com/artygalop) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

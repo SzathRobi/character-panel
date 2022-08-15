@@ -1,0 +1,35 @@
+.infoContainer {
+  padding: 1rem;
+  position: absolute;
+  min-width: 270px;
+  height: 80vh;
+  right: 0;
+  top: 0;
+  transform: translateX(75%);
+  border: 2px solid red;
+}
+
+.infoContainer h2,
+.infoContainer h3 {
+  margin-bottom: 0.5rem;
+}
+
+.iconContainer {
+  font-size: 3rem;
+  margin: 1.25rem 0;
+  position: relative;
+  left: 0.5rem;
+}
+
+.iconContainer::before {
+  content: '';
+  position: absolute;
+  z-index: -1;
+  top: -0.1rem;
+  left: -0.25rem;
+  width: 3.5rem;
+  height: 3.5rem;
+  transform-origin: center;
+  transform: rotate(45deg);
+  background-color: tomato;
+}

@@ -10,7 +10,10 @@
     "@react-three/fiber": "8.0.10",
     "next": "latest",
     "react": "^18.0.0",
+    "react-dnd": "^16.0.1",
+    "react-dnd-html5-backend": "^16.0.1",
     "react-dom": "^18.0.0",
+    "react-icons": "^4.4.0",
     "three": "0.139.2"
   }
 }
